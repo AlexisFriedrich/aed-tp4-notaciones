@@ -1,0 +1,15 @@
+       |NS                                    |DF                               |PS                          |C++                      |
+-------|------------------------------------------------------------------------|----------------------------|-------------------------|
+pros   |-tiene pocos tipos de simbología      |-es entendible por cualquiera    |-es entedible por cualquiera|-es mucho mas exacto     |
+       |-buena visualización                  |-se elavora con rapidez          |-no tiene simbología        |-puede ser corregido por |
+       |                                      |-buena visualización             |-se elavora con rapidez     |la computadora si hay    |
+       |                                      |                                 |                            |un error lógico          |
+-------|--------------------------------------|----------------------------------------------------------------------------------------|
+contras|-se necesita conocimiento previo      |-al haber muchos bucles se vuelve|-mala visualización         |-se necesita conocimiento|
+       |del diagrama                          |difícil de leer                  |                            |previo del diagrama      |
+       |-se vuelve dificil de leer si exiten  |-tiene mucha simbología (por la  |                            |-tiene muchos tipos de   | 
+       |varios tipos de entradas que deriven  |ANSI)                            |                            |funciones,operaciones,   |
+       |a diferentes salidas y que de esas se |                                 |                            |bibliotecas,etc.         |
+       |requieran nuevas entradas             |                                 |                            |-mala visualización      |
+       |-es de mas dificil elavoración        |                                 |                            |                         |
+----------------------------------------------------------------------------------------------------------------------------------------
